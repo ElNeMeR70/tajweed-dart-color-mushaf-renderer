@@ -1,0 +1,5 @@
+name: tajweed_dart_color_mushaf_renderer
+description: "Automated Color-Coded Tajweed Mushaf ANSI/SVG Annotator"
+version: 1.0.0
+environment:
+  sdk: ">=3.0.0 <4.0.0"
